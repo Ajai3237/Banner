@@ -34,7 +34,8 @@
     left: 50%;
     font-size: 3rem;
     font-weight: bolder;
-    text-shadow: 0,0,0,0.7;
+    text-shadow: (0,0,0,0.7);
+    color: rgba(125, 123, 123, 0.5)
 }
 span{
     color: red;
